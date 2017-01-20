@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+	    <ScrollView class="scrlviewClass">
+		  <View id="mainView" />
+		</ScrollView>
+	</Window>
+</Alloy>

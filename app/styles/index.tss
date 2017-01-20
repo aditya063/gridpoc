@@ -1,0 +1,16 @@
+".container": {
+    backgroundColor: "white"
+}
+
+".scrlviewClass": {
+    height: Ti.UI.FILL,
+    width: Ti.UI.FILL
+},
+
+"#mainView":{
+    top: 100,
+    width: Ti.UI.FILL,
+    height: Ti.UI.SIZE,
+    borderColor: "blue",
+    layout: "horizontal"
+},
